@@ -12,7 +12,9 @@ Desktop Apps:
 
 Tools & DevOps:
 
+
 🌟 What I Do
+
 ✔ Design and develop scalable and robust applications
 
 ✔ Optimize performance and database queries
