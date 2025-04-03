@@ -3,9 +3,13 @@
 
 🛠 Tech Stack
 Backend:
+
 Frontend:
+
 Database:
+
 Desktop Apps:
+
 Tools & DevOps:
 
 🌟 What I Do
