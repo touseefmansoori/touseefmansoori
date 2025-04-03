@@ -1,16 +1,18 @@
-## Hi there 👋
+👨‍💻 Full Stack Developer | .NET | DevExtreme | SQL Server
+🚀 16+ Years of Experience in building high-performance web and desktop applications using Microsoft technologies. Passionate about clean architecture, scalable solutions, and performance optimization.
 
-<!--
-**touseefmansoori/touseefmansoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+Backend:
+Frontend:
+Database:
+Desktop Apps:
+Tools & DevOps:
 
-Here are some ideas to get you started:
+🌟 What I Do
+✔ Design and develop scalable and robust applications
+✔ Optimize performance and database queries
+✔ Work with DevExtreme for dynamic UI/UX solutions
+✔ Integrate REST APIs and third-party services
+✔ Build WinForms applications for business solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect!
