@@ -17,13 +17,9 @@ Tools & DevOps:
 🌟 What I Do
 
 ✔ Design and develop scalable and robust applications
-
 ✔ Optimize performance and database queries
-
 ✔ Work with DevExtreme for dynamic UI/UX solutions
-
 ✔ Integrate REST APIs and third-party services
-
 ✔ Build WinForms applications for business solutions
 
 
